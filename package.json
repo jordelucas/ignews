@@ -41,6 +41,7 @@
     "jest": "^28.1.2",
     "jest-dom": "^4.0.0",
     "jest-environment-jsdom": "^28.1.2",
+    "jest-mock": "^28.1.1",
     "slice-machine-ui": "^0.3.8",
     "typescript": "^4.7.2"
   }
