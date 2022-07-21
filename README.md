@@ -1,3 +1,5 @@
+![planejador-de-poupanca](./public/images/ignews.png)
+
 ## Como executar
 
 Primeiro, execute o servidor de desenvolvimento:
